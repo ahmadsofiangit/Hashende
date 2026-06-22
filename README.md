@@ -14,12 +14,12 @@ python3 hashdecoder.py [hashed file] [wordlist file]
 ```
 
 ### Examples (Hash Decoding):
-```
+``` shell
 python3 hashdecoder.py hash.txt wordlist.txt
 ```
 
 ### Examples (Hash Encoding):
-```
+``` shell
 python3 hashencoder.py
 ```
 ### Video Example 
