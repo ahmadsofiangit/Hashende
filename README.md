@@ -1,7 +1,7 @@
 # Hashende
 Hashende is a decode and encode tool made with a python library named "hashlib" able to decode any type of hash from MD5, SHA1, SHA224, SHA256, etc. using a custom wordlist. 
 
-and of course made by malaysian :)
+and of course made by malaysian :) this project will be continue if i hit 100 follower
 
 ### Installation:
 ``` shell
