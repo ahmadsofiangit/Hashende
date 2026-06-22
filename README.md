@@ -5,10 +5,13 @@ Hashende is a decode and encode tool made with a python library named "hashlib" 
 ``` shell
 git clone https://github.com/ahmadsofiangit/Hashende.git
 ```
-### Encoding an Text To Hash For testing
+### Usage
 ``` shell
 cd Hashende
-python3 hashencode.py
 python3 hashdecoder.py [hashed file] [wordlist file]
+```
+
+### Example
+```
 python3 hashdecoder.py hash.txt wordlist.txt
 ```
