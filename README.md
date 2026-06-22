@@ -24,7 +24,7 @@ python3 hashencoder.py
 ```
 ### Video Example 
 https://github.com/user-attachments/assets/8d3f3585-9c73-4546-b850-bca43f8df6fa
+
 Feature:
 - You can generate the wordlist textfile using my previous tool named passgen or another password generator tool.
 - You don't have to install the library since it already available by default no pip install required.
-- Support by any OS and CPU (for speed decoding depends on your CPU if it is fast enough it will)
